@@ -1,0 +1,27 @@
+5
+4, 2
+black; S, SE; false
+yellow; S; false
+black; E, W; false
+red; SW; false
+black; W; false
+yellow; N, S; false
+yellow; S, NE; false
+black; ; true
+black; W, SW; false
+black; W, S; false
+black; N, S; false
+black; E; false
+black; NW, SE; false
+black; N, SE, SW; false
+black; N; false
+black; N, E; false
+black; E, NE; false
+black; E, SE; false
+black; SE, NW; false
+red; N; false
+yellow; E; false
+black; E, W; false
+black; W, NE; false
+black; N, NE; false
+red; N; false

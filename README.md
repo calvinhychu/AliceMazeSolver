@@ -1,8 +1,8 @@
 # Alice Mazes Solver
-Alice Mazes (http://www.logicmazes.com/alice.html) are puzzles created by Robert Abbott. They are based on Lewis Carroll's Alice In Wonderland where Alice grows and shrinks during the story. Click [here](http://www.logicmazes.com/alice.html) to learn more about Alice Mazes. This program is designed to solve any arbitrary Alice maze.
+Alice Mazes are puzzles created by Robert Abbott. They are based on Lewis Carroll's Alice In Wonderland where Alice grows and shrinks during the story. Click [here](http://www.logicmazes.com/alice.html) to learn more about Alice Mazes. This program is designed to solve any arbitrary Alice maze.
 
 ## Rules of Alice Mazes
-Rules of Alice Mazes are as follows (From [official page](http://www.logicmazes.com/alice.html)):
+Rules of Alice Mazes are as follow (Quoted from [official page](http://www.logicmazes.com/alice.html)):
 You start this maze on the red square, and your current position is always shown in red. You must make a series of moves that will take you to the goal. Begin each move by following one of the arrows in the red square, travel in a straight line for a distance equal to <b><i>d</i></b>, and then click on the square where your move ends.
 
 When the maze begins, <b><i>d</i></b> equals 1. When you land on a square with a red arrow, 1 is added to <b><i>d</i></b>. When you land on a square with a yellow arrow, 1 is subtracted from <b><i>d</i></b>. If the mazes have blank squares, you may not land on them.
